@@ -33,7 +33,7 @@ app.frame("/join", async (c) => {
 		return c.res({
 			image: config.alreadyMemberImage,
 			intents: [
-				<Button.Link href="https://github.com/stevedylandev/channel-frame">
+				<Button.Link href="https://github.com/PinataCloud/channel-frame">
 					Source Code
 				</Button.Link>,
 			],
@@ -73,7 +73,7 @@ app.frame("/join", async (c) => {
 		return c.res({
 			image: config.successImage,
 			intents: [
-				<Button.Link href="https://github.com/stevedylandev/channel-frame">
+				<Button.Link href="https://github.com/PinataCloud/channel-frame">
 					Source Code
 				</Button.Link>,
 			],
