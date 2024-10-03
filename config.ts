@@ -2,13 +2,13 @@ export const config = {
 	title: "Join /pinata",
 	channel: "pinata",
 	startImage:
-		"https://dweb.mypinata.cloud/ipfs/QmWnDf7iM4H9EJJLnW7tjaHgkHVPCWwcPSaM8TCfvBDjtP?img-format=webp",
+		"https://dweb.mypinata.cloud/ipfs/Qme7ZBHZ8hPwph7Rwgd9EuESBZ2QukvUyvqrtzHQQyhwCe?img-format=webp",
 	mustFollowImage:
-		"https://dweb.mypinata.cloud/ipfs/QmZfCdDqsMfm9KWH5kPmJsD27vgWTmdhMZFzGMmSaQK9YQ?img-format=webp",
+		"https://dweb.mypinata.cloud/ipfs/QmZfzP8Vp4BVkVZ681gucr4bTEE7YJmp3u9fYHtvuyAZtp?img-format=webp",
 	alreadyMemberImage:
-		"https://dweb.mypinata.cloud/ipfs/QmRfKQFQxPBsc9JQdSj3AMak1bvEfqr7NtrCqwMMxmjRNf?img-format=webp",
+		"https://dweb.mypinata.cloud/ipfs/QmRh8gJD7sceMLuQ2GMvMkPWzPJ5fB2pZFjnYkreRdc38c?img-format=webp",
 	successImage:
-		"https://dweb.mypinata.cloud/ipfs/QmREw24yRCLAX7aESuPmhGyqNBqtx7cxxnGgFVYeoaD5A9?img-format=webp",
+		"https://dweb.mypinata.cloud/ipfs/QmVXTGNeKTYJzjJF4F6ncs6fHBT15vLY5aUdGM3z2ztkU3?img-format=webp",
 	errorImage:
-		"https://dweb.mypinata.cloud/ipfs/QmVaSL2BBagzatjQ8RYJVLQ1ooVYtpt8dwJVqujBJBtLUT?img-format=webp",
+		"https://dweb.mypinata.cloud/ipfs/QmbqydPqciqxjDgJqaCB7cMERoGMHDRasHvQFFoZANuECq?img-format=webp",
 };
