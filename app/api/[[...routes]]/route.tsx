@@ -31,7 +31,7 @@ app.frame("/join", async (c) => {
 
 	if (isMemeberRes.result.members.length > 0) {
 		return c.res({
-			image: config.alreadyMemeberImage,
+			image: config.alreadyMemberImage,
 			intents: [
 				<Button.Link href="https://github.com/stevedylandev/channel-frame">
 					Source Code
