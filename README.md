@@ -16,6 +16,9 @@ MOD_PUBLIC_KEY= # public key of the signer
 MOD_PRIVATE_KEY= # private key of the signer
 ```
 
+> [!IMPORTANT]
+> Make sure to remove the `0x` prefix from your public and private keys!!
+
 ### Edit the Config
 
 Everything you need to customize this frame is in the `config.ts` file at the root of the project! You will need image links for each step, and [Pinata](https://pinata.cloud) makes that pretty easy but uploading and copying the links.
