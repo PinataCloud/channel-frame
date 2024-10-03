@@ -14,6 +14,9 @@ export const metadata: Metadata = {
 		"fc:frame:button:1": "Request to Join",
 		"fc:frame:button:1:action": "post",
 		"fc:frame:button:1:target": "https://channel.pinatadrops.com/api/join",
+		"fc:frame:button:2": "Source Code",
+		"fc:frame:button:2:action": "link",
+		"fc:frame:button:2:target": "https://github.com/PinataCloud/channel-frame",
 	},
 };
 
