@@ -21,7 +21,7 @@ MOD_PRIVATE_KEY= # private key of the signer
 
 ### Edit the Config
 
-Everything you need to customize this frame is in the `config.ts` file at the root of the project! You will need image links for each step, and [Pinata](https://pinata.cloud) makes that pretty easy but uploading and copying the links.
+Everything you need to customize this frame is in the `config.ts` file at the root of the project! You will need image links for each step, and [Pinata](https://pinata.cloud) makes that pretty easy by uploading and copying the links.
 
 ```typescript
 export const config = {
